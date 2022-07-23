@@ -2,7 +2,7 @@
 微信小程序 树形菜单组件
 
 需属性传值 listData（树形菜单数据）
-listData数据格式:listData:[
+listData数据格式:```listData:[
             {
                 title:'A层级菜单1',
                 children:[
@@ -26,7 +26,7 @@ listData数据格式:listData:[
                 title:'A层级菜单2',
                 children:[]
             }
-        ]
+        ]```
 
 使用：
 
