@@ -29,4 +29,5 @@ listData数据格式:listData:[
         ]
 
 使用：
-<wxTreeList listData="{{listData}}"></wxTreeList>
+
+ <wxTreeList listData="{{listData}}"></wxTreeList>
